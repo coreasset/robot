@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apiHostMap>
-    <!-- Sample
-    <apiHost key="sample" host="localhost" port="9090" contextRoot="sample"/>
-    -->
+    <apiHost key="github-repository" host="api.github.com" port="0" contextRoot="/" ssl="on" />
 </apiHostMap>
